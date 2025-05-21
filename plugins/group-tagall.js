@@ -9,12 +9,12 @@ const handler = async (m, { isOwner, isAdmin, conn, text, participants, args, co
     var member = 0;
   }
   const pesan = args.join` `;
-  const oi = `𝙀𝙏𝙄𝙌𝙐𝙀𝙏𝘼𝙎:* ${pesan}`;
-  let teks = `*> Tʜᴇ Sᴜɴ Is Bʀɪɢʜᴛ Bᴜᴛ Nᴏᴛ As Bʀɪɢʜᴛ As Mᴇ ☀️*\n\n *${oi}\n\n➥ _*@ineffable.mvrco:*_\n`;
+  const oi = ` ── 𝙀𝙏𝙄𝙌𝙐𝙀𝙏𝘼𝙎: * ${pesan}`;
+  let teks = `*𝘽𝙪𝙚𝙣𝙤𝙨 𝙙𝙞𝙖𝙨, 𝙩𝙖𝙧𝙙𝙚𝙨,𝙣𝙤𝙘𝙝𝙚𝙨 𝙡𝙞𝙙𝙚𝙧𝙚𝙨 𝙙𝙚 𝙚𝙦𝙪𝙞𝙥𝙤𝙨, 𝙙𝙚𝙨𝙥𝙞𝙚𝙧𝙩𝙚𝙣🌤*\n\n *${oi}\n`;
   for (const mem of participants) {
-    teks += `*🥷🏼 ⇝* @${mem.id.split('@')[0]}\n`;
+    teks += `*🩶🎙 * @${mem.id.split('@')[0]}\n`;
   }
-  teks += `*└KɪʟʟBᴏᴛ ⇝@ineffable.mvrco*`;
+  teks += `*└𝙄𝙜:𝙣𝙞𝙠𝙠𝙞𝟯𝟬.𝙛*`;
   conn.sendMessage(m.chat, { text: teks, mentions: participants.map((a) => a.id) });
 };
 handler.help = ['tagall <mesaje>', 'invocar <mesaje>'];
