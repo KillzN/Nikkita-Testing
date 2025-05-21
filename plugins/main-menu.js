@@ -215,7 +215,7 @@ let handler = async (m, { isPrems, conn }) => {
 ┃⋗ 📝 *.unreg*  
 ┗━━━━━━━━━━━━━━┛
 
-> KILLBOT`
+> NIKKITA BOT`
 
    const fkontak = {
       "key": {

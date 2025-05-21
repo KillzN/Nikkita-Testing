@@ -37,14 +37,14 @@ handler.all = async function (m) {
     global.creador = 'Wa.me/51947248937'
     global.ofcbot = `${conn.user.jid.split('@')[0]}`
     global.asistencia = 'https://wa.me/qr/PAOHAKCEHGUXN1'
-    global.namechannel = 'KILLBOT'
+    global.namechannel = 'NIKKITA BOT'
 
     //Reacciones De Comandos.!
     global.rwait = '🕒'
     global.done = '✅'
     global.error = '✖️'
 
-    //Emojis determinado de KILLBOT Bot
+    //Emojis determinado de NIKKITA BOT Bot
     global.emoji = '🍁'
     global.emoji2 = '⭐'
     global.emoji3 = '✨️'

@@ -15,9 +15,9 @@ global.confirmCode = ''
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-  ['51947248937', 'KILLBOT', true],
-  ['51947248937', 'KILLBOT', true],
-  ['51947248937', 'KILLBOT', true],
+  ['51947248937', 'NIKKITA BOT', true],
+  ['51947248937', 'NIKKITA BOT', true],
+  ['51947248937', 'NIKKITA BOT', true],
   ['51947248937'],
   ['51947248937'],
   ['51947248937'],
@@ -48,7 +48,7 @@ global.languaje = 'Español'
 global.nameqr = 'Sisked-x'
 global.namebot = '@𝖎𝖓𝖊𝖋𝖋𝖆𝖇𝖑𝖊.𝖒𝖛𝖗𝖈𝖔'
 global.sessions = 'NikkitaSession'
-global.jadi = 'KILLBOTJadiBot'
+global.jadi = 'NIKKITA BOTJadiBot'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 

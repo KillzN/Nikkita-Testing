@@ -1,4 +1,4 @@
-//Codígo de KILLBOT
+//Codígo de NIKKITA BOT
 
 import fs from 'fs';
 import path from 'path';
